@@ -14,6 +14,25 @@ Bizler, sadece toplantı notu alan veya belge dolduran ofis çalışanları değ
 
 ---
 
+## 🎯 Hedef Kitle (Who is this for?)
+
+Bu dokümantasyon herkes için değildir. Sadece **"işin mutfağına"** girmeye cesaret edenler içindir:
+
+*   **Junior Business Analysts:** Teorik bilgiyi pratik sahadaki "savaş sanatı"na dönüştürmek isteyenler.
+*   **Teknik Kökenliler (Developers/QA):** Kodun ötesini görüp, "neden" sorusunun cevabını arayan ve iş dünyasına köprü kurmak isteyenler.
+*   **Yönetim Kökenliler (PM/PO):** Teknik ekiplerle aynı dili konuşmak ve projeleri daha realist zeminlere oturtmak isteyenler.
+*   **Kariyer Değiştirenler:** Farklı bir disiplinden gelip, analitik zekasını iş dünyasının problemlerine kanalize etmek isteyen cesur zihinler.
+
+## 🎓 Eğitim Metodolojisi (The Method)
+
+Burada "ezber" yoktur, "içselleştirme" vardır. Metodolojimiz üç aşamalı bir döngüden oluşur:
+
+1.  **Kavramsal İnşa (Construct):** Önce zihinsel modeli kurarız. Neden bu kavrama ihtiyacımız var? Hangi problemi çözüyor?
+2.  **Pratik Uygulama (Deploy):** Teoriyi sahaya indiririz. Gerçek dünya senaryoları, vaka analizleri ve canlı örnekler.
+3.  **Araçsal Hakimiyet (Master):** İşi yapmak için gereken dijital araçları (Jira, SQL, BPMN tools) bir uzvumuz gibi kullanmayı öğreniriz.
+
+---
+
 ## 🗺️ İçerik Haritası (Mastery Path)
 
 Bu yolculuk, mesleğin temellerini atan kavramsal bir girişten başlayıp, karmaşık sistemleri yönetmenizi sağlayacak ileri seviye tekniklere ve stratejik derinliğe kadar uzanan kapsamlı bir "Mastery Path" yani ustalık yoludur. Her modül, sizi bir sonraki seviyeye hazırlayan bir basamaktır.
@@ -52,6 +71,17 @@ Bir ustanın yeteneği, kullandığı aletlerin kalitesiyle ve onlara olan hakim
 **"Küresel Onay ve Prestij"**
 Bilgi güçtür, ancak sertifikasyon bu gücün tescilidir. **Bu reponun ana odak noktalarından biri olan sertifikasyon**, yerel yetkinliklerinizi küresel bir pasaporta dönüştürür. CBAP, CCBA ve ECBA gibi uluslararası geçerliliği olan IIBA sertifikasyonlarına hazırlık stratejilerinden, teknik mülakatlarda fark yaratacak "Metal Yaka" taktiklerine kadar; profesyonel gelişiminizi şansa bırakmayacak derinlikte bir yol haritası sunar. Sadece iş bulmak için değil, küresel standartlarda aranan, "Headhunter"ların radarındaki bir uzman olmak için gerekli tüm rehberlik buradadır.
 *   *Odak Noktaları: IIBA Sertifikasyonları (ECBA, CCBA, CBAP) Sınav Rehberleri, Kariyer Basamakları (Junior -> Senior -> Lead -> Architect), Teknik Mülakat Simülasyonları, CV ve Portfolyo Hazırlama Sanatı, Profesyonel Ağ Kurma (Networking).*
+
+---
+
+## 📚 Kütüphane ve Kaynaklar
+
+Gerçek bir usta, kaynaklarını asla tüketmez, onları çoğaltır. Bu yolculukta sırtımızı dayadığımız temel eserler:
+
+*   **BABOK v3 Guide (IIBA):** İş analizinin kutsal kitabı. Tüm süreçlerimizin omurgası.
+*   **PMI-PBA Standards:** Proje yönetimi perspektifinden iş analizi disiplini.
+*   **Agile Alliance Resources:** Çevik dünyada ayakta kalma rehberleri.
+*   *Özel notlar ve vaka analizleri (Repo içeriğine dağıtılmış durumda)*
 
 ---
 
