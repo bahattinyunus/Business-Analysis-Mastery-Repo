@@ -33,7 +33,23 @@ Burada "ezber" yoktur, "içselleştirme" vardır. Metodolojimiz üç aşamalı b
 
 ---
 
-## 🗺️ İçerik Haritası (Mastery Path)
+## 🏆 Ultimate Certification Hub: Küresel Geçerlilik
+
+Bu repo, sizi rastgele bilgilerle değil, **IIBA® (International Institute of Business Analysis)** standartlarıyla donatır. Hedefimiz sadece öğrenmeniz değil, yetkinliğinizi küresel arenada tescilleyen sertifikaları (ECBA™, CCBA®, CBAP®) kazanmanızdır.
+
+### �️ Rütbe ve Yetkinlik Tablosu (Hangisi Senin İçin?)
+
+| Sertifika | Seviye | Hedef Kitle | Deneyim Şartı | Sınav Odağı |
+| :--- | :--- | :--- | :--- | :--- |
+| **ECBA™** | Çırak (Entry) | Yeni Mezunlar, Junior BA'ler | **Yok** (0 Saat) | Temel Bilgi & Kavramlar |
+| **CCBA®** | Kalfa (Mid) | 2-3 Yıl Deneyimliler | **3,750 Saat** | Senaryo Analizi & Uygulama |
+| **CBAP®** | Usta (Senior) | 5+ Yıl Deneyimliler | **7,500 Saat** | Stratejik Vaka Çözümü |
+
+> **💡 Metal Yaka Notu:** Sertifika bir kağıt parçası değil, "Ben bu işin kitabını yazdım ve sahada uyguladım" demenin en kısa yoludur.
+
+---
+
+## 🗺️ İçerik Haritası & BABOK® Eşleşmeleri
 
 Bu yolculuk, mesleğin temellerini atan kavramsal bir girişten başlayıp, karmaşık sistemleri yönetmenizi sağlayacak ileri seviye tekniklere ve stratejik derinliğe kadar uzanan kapsamlı bir "Mastery Path" yani ustalık yoludur. Her modül, sizi bir sonraki seviyeye hazırlayan bir basamaktır.
 
@@ -41,11 +57,13 @@ Bu yolculuk, mesleğin temellerini atan kavramsal bir girişten başlayıp, karm
 **"Kökeni Anlamak"**
 Her büyük yapı, sarsılmaz bir temel üzerine kurulur. İş analizinin DNA'sını incelediğimiz bu bölümde, sadece tanımları değil, mesleğin ruhunu ve varoluş amacını kavrarsınız. Bir analist organizasyonda nerede durur, kime hizmet eder ve başarısı nasıl ölçülür? Paydaşlarla (stakeholders) kurulan o hassas iletişim dengesinden, politik manevra kabiliyetine; bir iş analistinin sahip olması gereken analitik zeka ve eleştirel düşünme yetkinliklerine kadar her şeyi burada inşa ediyoruz. Burası, "neden buradayım" sorusunun cevabıdır.
 *   *Odak Noktaları: Analistin Stratejik Rolü, Paydaş Analizi ve Yönetimi, Temel Yetkinlikler, IIBA ve BABOK Standartlarına Giriş, Analitik Zihniyetin İnşası.*
+*   *🗝️ BABOK Mapping: Chapter 1 & 2 (Key Concepts), Chapter 9 (Underlying Competencies)*
 
 ### 📐 [02_Gereksinim_Muhendisligi](./02_Gereksinim_Muhendisligi/)
 **"Görünmeyeni İnşa Etmek"**
 Müşterinin ne istediği ile neye ihtiyacı olduğu arasındaki uçurumu kapatmak, bu işin en büyük sanatıdır. Çoğu proje, kodlama hatalarından değil, yanlış anlaşılmış gereksinimlerden dolayı batar. Bu bölüm, görünmeyeni görünür kılma, söylenmeyeni duyma sanatıdır. Gereksinim toplama (elicitation) teknikleriyle sahaya inip, ham bilgiyi işleyerek, yazılım ekiplerinin üzerinde çalışabileceği net, hatasız ve uygulanabilir teknik dokümanlara dönüştürme sürecini, yani gerçek bir **mühendisliği** öğrenirsiniz.
 *   *Odak Noktaları: Gereksinim Çıkarımı (Elicitation - Mülakat, Çalıştay, Gözlem), Analiz Derinliği, Teknik Dokümantasyon (BRD, SRS), Doğrulama ve Onay Süreçleri, Gereksinimlerin Yaşam Döngüsü Yönetimi.*
+*   *🗝️ BABOK Mapping: Knowledge Area 4 (Elicitation and Collaboration) & Knowledge Area 5 (Requirements Life Cycle Management)*
 
 ### 🔄 [03_Surec_Modelleme](./03_Surec_Modelleme/)
 **"Akışı Yönetmek"**
@@ -71,6 +89,7 @@ Bir ustanın yeteneği, kullandığı aletlerin kalitesiyle ve onlara olan hakim
 **"Küresel Onay ve Prestij"**
 Bilgi güçtür, ancak sertifikasyon bu gücün tescilidir. **Bu reponun ana odak noktalarından biri olan sertifikasyon**, yerel yetkinliklerinizi küresel bir pasaporta dönüştürür. CBAP, CCBA ve ECBA gibi uluslararası geçerliliği olan IIBA sertifikasyonlarına hazırlık stratejilerinden, teknik mülakatlarda fark yaratacak "Metal Yaka" taktiklerine kadar; profesyonel gelişiminizi şansa bırakmayacak derinlikte bir yol haritası sunar. Sadece iş bulmak için değil, küresel standartlarda aranan, "Headhunter"ların radarındaki bir uzman olmak için gerekli tüm rehberlik buradadır.
 *   *Odak Noktaları: IIBA Sertifikasyonları (ECBA, CCBA, CBAP) Sınav Rehberleri, Kariyer Basamakları (Junior -> Senior -> Lead -> Architect), Teknik Mülakat Simülasyonları, CV ve Portfolyo Hazırlama Sanatı, Profesyonel Ağ Kurma (Networking).*
+*   *🗝️ Özel İçerik: Sınav Simülasyonları, Mnemonics (Hafıza Teknikleri), Başvuru Rehberleri.*
 
 ---
 
